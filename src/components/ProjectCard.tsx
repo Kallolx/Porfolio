@@ -6,7 +6,7 @@ interface ProjectCardProps {
   id: string;
   title: string;
   year: string;
-  category: string;
+  category: string;K
   description?: string;
   technologies?: string[];
   image?: string;
